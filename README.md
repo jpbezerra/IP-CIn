@@ -1,6 +1,8 @@
 # Sobre o Repositório #
 Este repositório contém minha resolução dos exercícios de cada lista disponível da cadeira de Introdução à Programação (IP) da UFPE 2023.2;
+
 As listas estão resolvidas em Python;
+
 Cada lista possui um tema e além disso, a cada lista é implementada novos elementos do Python.
 
 ### Lista 0 ###
