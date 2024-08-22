@@ -1,5 +1,5 @@
 # Sobre o Repositório #
-Este repositório contém minha resolução dos exercícios de cada lista disponível da cadeira de Introdução à Programação (IP) da UFPE 2023.2;
+Este repositório contém minha resolução dos exercícios de cada lista disponível da cadeira de Introdução à Programação - IF669 (2023.2) da UFPE;
 
 As listas estão resolvidas em Python;
 
